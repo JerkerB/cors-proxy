@@ -1,0 +1,13 @@
+{
+  "name": "cors-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proxy.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cors-anywhere": "^0.4.1"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
